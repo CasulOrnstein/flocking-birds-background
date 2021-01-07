@@ -4,6 +4,8 @@ An interactive and animated flocking birds background for React.
 
 This background supports window resizing, horizontal and vertical scrolling, and defining custom obstacles through the use of CSS selectors. User interactivity is included with birds within a proximity being attracted to the mouse's position when the mouse is over the background
 
+![Example of the flocking-birds-background](https://i.imgur.com/UvAol7Z.gif)
+
 ## Installation
 
 The background is provided as a NPM package, so to install run `npm install flocking-birds-background` in the root of your React project.
