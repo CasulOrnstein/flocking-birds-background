@@ -26,9 +26,16 @@
     "type": "git",
     "url": "git+https://github.com/CasulOrnstein/flocking-birds-background.git"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "background",
+    "canvas",
+    "birds",
+    "boids",
+    "animated"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/CasulOrnstein/flocking-birds-background/issues"
   },
